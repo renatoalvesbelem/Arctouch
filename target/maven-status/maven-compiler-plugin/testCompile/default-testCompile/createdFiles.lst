@@ -1,0 +1,6 @@
+page/FormularioDeRegistroPage.class
+arctouch/FormularioDeRegistro.class
+arctouch/Stepdefs.class
+util/FormularioRegistroInterface.class
+arctouch/RunCucumberTest.class
+util/WebDriverArctouch.class
