@@ -9,5 +9,5 @@
 **Execução do projeto**
 
 - Abrir o terminal de comando do seu Sistema Operacional.
-- Navegue até o diretório do Projeto clonado.
-- Execute o comando **mvn test** 
+- Navegar até o diretório do Projeto clonado.
+- Executar o comando **mvn test** 
